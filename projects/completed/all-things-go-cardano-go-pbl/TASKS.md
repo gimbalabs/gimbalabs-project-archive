@@ -16,3 +16,25 @@ This project has 7 linked tasks in Notion.
 
 ---
 *Note: Task details can be fetched from Notion using the URLs above if needed.*
+
+## Meeting Agenda
+
+- Time on Cardano
+    - How does it change?
+    - What is Era?
+    - How does it rotate?
+    - What is a slot?
+    - What is block time?
+- Protocol parameters
+    - Cost model
+    - Fees
+    - Important configs
+    - What is Genesis?
+    - What is the purpose of different networks?
+        - bootstrapping a network
+    
+    What are the relationships of all the above to building a project, a library or a codebase in Go?
+    
+- Related to time: handling race conditions / contention for UTxOs
+    - Concurrency issues?
+    -
