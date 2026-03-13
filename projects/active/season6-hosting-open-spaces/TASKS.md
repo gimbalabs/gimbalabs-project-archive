@@ -8,16 +8,15 @@
 
 ## Task Summary (8 tasks)
 
-| Task ID | Task Name | Status |
-|---------|-----------|--------|
-| GHT-647 | Sept 18th meeting | Done |
-| GHT-658 | Sept 25th meeting | Done |
-| GHT-659 | Oct 2nd meeting | Done |
-| GHT-660 | (New task - untitled) | Not started |
-| GHT-688 | 2025-10-09 meeting | Done |
-| GHT-689 | Payments for Nov and Dec | Done |
-| GHT-707 | Oct 16th, 2025 | Done |
-| GHT-734 | Payments for Sept Oct | Done |
+| Task ID | Task Name                | Status      |
+| ------- | ------------------------ | ----------- |
+| GHT-647 | Sept 18th meeting        | Done        |
+| GHT-658 | Sept 25th meeting        | Done        |
+| GHT-659 | Oct 2nd meeting          | Done        |
+| GHT-688 | 2025-10-09 meeting       | Done        |
+| GHT-689 | Payments for Nov and Dec | Done        |
+| GHT-707 | Oct 16th, 2025           | Done        |
+| GHT-734 | Payments for Sept Oct    | Done        |
 
 ---
 
