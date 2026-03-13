@@ -3,7 +3,7 @@ title: "Sponsor Andamio's Attendance at Cardano Summit Buenos Aires (Argentina)"
 notion_url: "https://www.notion.so/2930db6d1d5d80f5afb0c8586f9755c7"
 status: "In progress"
 priority: null
-owner: []
+owner: [Sebastian Pabon]
 collaborators: []
 funding_source: []
 circle:
