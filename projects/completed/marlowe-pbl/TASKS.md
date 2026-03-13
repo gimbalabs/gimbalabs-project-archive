@@ -690,9 +690,9 @@ Date: 13/feb/2025
 
 Status: Done
 
-https://x.com/gimbalabs/status/1890822577351733631
-https://www.linkedin.com/posts/gimbalabs_at-gimbalabs-were-constantly-broadening-activity-7296589087946276865-3ClN?utm_source=share&utm_medium=member_desktop&rcm=ACoAAAUjCbcB2s-3j0lKoMquR0aVTyCf5mkzlgA
-https://forum.cardano.org/t/coming-soon-marlowe-pbl/143200?u=sebastian_pabon
+- https://x.com/gimbalabs/status/1890822577351733631
+- https://www.linkedin.com/posts/gimbalabs_at-gimbalabs-were-constantly-broadening-activity-7296589087946276865-3ClN?utm_source=share&utm_medium=member_desktop&rcm=ACoAAAUjCbcB2s-3j0lKoMquR0aVTyCf5mkzlgA
+- https://forum.cardano.org/t/coming-soon-marlowe-pbl/143200?u=sebastian_pabon
 
 
 ---
