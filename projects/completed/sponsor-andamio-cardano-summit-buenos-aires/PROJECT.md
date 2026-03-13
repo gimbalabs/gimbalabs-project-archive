@@ -2,19 +2,17 @@
 title: "Sponsor Andamio's Attendance at Cardano Summit Buenos Aires (Argentina)"
 notion_url: "https://www.notion.so/2930db6d1d5d80f5afb0c8586f9755c7"
 status: "In progress"
-priority: null
 owner: [Sebastian Pabon]
 collaborators: []
-funding_source: []
+funding_source: [Gimbalabs Treasury]
 circle:
   - "Advocacy&Outreach"
 ada_inflows: null
 ada_outflows: 2117
-budget_spent_ada: null
+budget_spent_ada: 2117
 operational_dates:
   start: "2025-10-24"
   end: "2025-11-27"
-review_date: null
 archived_at: "2026-03-09"
 has_tasks: true
 task_count: 4

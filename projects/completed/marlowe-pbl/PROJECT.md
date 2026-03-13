@@ -2,20 +2,14 @@
 title: "Marlowe PBL"
 notion_url: "https://www.notion.so/6110a4f229a84e92907e99cda0138d79"
 status: "Done"
-priority: null
 owner: [Sebastian Pabon]
 collaborators: [James Dunseith, Kevin]
-funding_source:
-  - "F12: Marlowe PBL"
+funding_source: [Project Catalyst proposal F12 Marlowe PBL]
 circle:
   - "Educations / PBLs"
-ada_inflows: null
-ada_outflows: null
-budget_spent_ada: null
 operational_dates:
-  start: null
-  end: null
-review_date: "2024-11-28"
+  start: 2024-04-24
+  end: 2026-03-09
 archived_at: "2026-03-09"
 has_tasks: true
 task_count: 17
