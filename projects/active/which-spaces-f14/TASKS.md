@@ -18,6 +18,7 @@ Project URL: https://www.notion.so/2990db6d1d5d80da96e0c3d514234474
 | GHT-751 | #10 Community Code Review 2026-02-18 | Done | - |
 | GHT-752 | #11 Community Code Review 2026-02-25 | Done | - |
 | GHT-755 | #12 Community Code Review 2026-03-04 | Done | - |
+| GHT-756 | #13 Community Code Review 2026-03-11 | Done | - |
 
 ## Other Tasks
 
@@ -102,3 +103,15 @@ Project URL: https://www.notion.so/2990db6d1d5d80da96e0c3d514234474
 - **Participants:** Harsha, Lewis, Newman
 - **Code:** 102.1: I can write an always succeed spending validator
   - https://app.v1.andamio.io/course/db22e013578fcead6c2fed5446d61891ad31f3cb4955e88d980107e7/102/lesson/1
+
+### #13 Community Code Review 2026-03-11
+- **Participants:** Harsha, Ahmed
+- **Code:** Aiken PBL Failing test cases
+- **Notes:** https://app.v1.andamio.io/course/db22e013578fcead6c2fed5446d61891ad31f3cb4955e88d980107e7/102/lesson/1
+
+### #14 Community Code Review 2026-03-18
+- **Participants:** Harsha, Newman, Emmanuel, Ahmed, John Sanit
+- **Code:** Aiken PBL 103 module
+- **Notes:** https://app.v1.andamio.io/course/db22e013578fcead6c2fed5446d61891ad31f3cb4955e88d980107e7/102/lesson/1
+  - UTXO (BTC) vs eUTXO (ADA) - https://learnmeabitcoin.com/beginners/guide/transactions/
+  - withdrawal zero trick - https://scalus.org/docs/design-patterns/withdraw-zero and https://anastasia-labs.github.io/aiken-design-patterns/
