@@ -18,3 +18,9 @@ The testing phase will span 8 Gimbalabs Open Governance Spaces:
 ## Evaluation Criteria Tasks
 - [ ] Each week have one or more community members coming forward to host the 15 min governance slot
 - [ ] Track votes on dRep community platform
+
+## Links
+- [Documentation spreadsheet](https://docs.google.com/spreadsheets/d/1o1JN_m6w7w2JNDC2V-1YmjBRFQAwUtLZFjUmTE-bxuY/edit?gid=1382511908#gid=1382511908) 
+- [Gimbalabs DRep repo](https://github.com/gimbalabs/gimbalabs-drep) 
+- [Drep Report at OpenSpaces repo on gimbalabs](https://github.com/gimbalabs/gimbalabs-drep) 
+- [Cardano-governance-proposal-summaries](https://github.com/gimbalabs/Cardano-governance-proposal-summaries) 
