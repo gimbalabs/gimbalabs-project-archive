@@ -16,8 +16,9 @@
 | 2026-02-26 | Monthly Project Review                   | Newman and Harsha       |            |
 | 2026-03-05 | working group on tasks                   |                         |            |
 | 2026-03-12 | Working group on Notion Migratio         | Newman and James        |            |
-| 2026-03-19 | Maybe your proposal                      | You?                    |            |
-
+| 2026-03-19 | Call for Proposals                      | Newman                    |            |
+| 2026-03-26 | Monthly Projects review         | Harsha and Newman        |            |
+| 2026-04-02 |          |        |            |
 ## Format of meeting summary:
 
 **Date**
