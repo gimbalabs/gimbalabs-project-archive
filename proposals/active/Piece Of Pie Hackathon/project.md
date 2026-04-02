@@ -1,6 +1,7 @@
 # Piece Of Pie Hackathon by Gimbalabs
 
 ## Gimbalabs Primary Driver
+
 To provide open, replicable safe spaces to learn, to explore, and to empower individuals and organizations anywhere so that we can solve meaningful problems.
 
 ---
@@ -11,12 +12,14 @@ To provide open, replicable safe spaces to learn, to explore, and to empower ind
 No lightweight structure exists to encourage consistent building, sharing, and real-world experimentation without heavy coordination or competition.
 
 **Effects:**
+
 - Isolated building
 - Low visibility of progress
 - Limited push toward real users
 
 **Need:**
 A simple, low-friction system that rewards:
+
 - Consistent participation
 - Public progress
 - Real-world outcomes
@@ -26,6 +29,7 @@ A simple, low-friction system that rewards:
 ## Proposal
 
 ### 1. Description
+
 A 12-week participation-driven hackathon where contributors earn equal shares of fixed reward pools by meeting clear criteria.
 
 ---
@@ -84,15 +88,20 @@ Missing any week → disqualified
 - Max 15 credits per person
 - 1,000 ADA split proportionally
 
+example: If Alice does the max 15 feedback sessions, and Bill does 5 and Charles does 10, that's 30 total points.  1000 / 30 is 33.30.  So, Alice get 15 times 33.3 (500). Bill is 5 times 33.30 (166).  And, Charles is 10 times 33.3 (330)
+
+
+
 ---
 
 ### 7. Administration
 
 Admins are responsible for:
+
 - Coordination
 - Participant tracking
 - Hackathon website + enrollment flow
-- Final presentation logistics
+- Final presentation Meeting and logistics
 
 Verification handled via public presentations
 
@@ -116,12 +125,12 @@ Qualify through consistent, verifiable participation — not competition
 
 ## 10. Risks
 
-| Risk | Mitigation |
-|------|------------|
-| Drop-offs | Strict weekly requirement |
-| Fake users | Public proof + story |
-| Low quality | Qualification rules |
-| Feedback abuse | Recorded interactions |
+| Risk           | Mitigation                |
+| -------------- | ------------------------- |
+| Drop-offs      | Strict weekly requirement |
+| Fake users     | Public proof + story      |
+| Low quality    | Qualification rules       |
+| Feedback abuse | Recorded interactions     |
 
 ---
 
@@ -131,3 +140,13 @@ Qualify through consistent, verifiable participation — not competition
 - Public build logs
 - Real users (even minimal)
 - Stronger builder culture
+
+
+
+## Questions
+
+Double Dip:  Which projects are eligible?  What if there is a an active GL project and they ALSO do the "PoP" hackathon?
+
+- maybe
+
+- Should Newman and Harsha as Admin be allowed to do projects
