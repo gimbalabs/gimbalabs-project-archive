@@ -150,3 +150,8 @@ Double Dip:  Which projects are eligible?  What if there is a an active GL proje
 - maybe
 
 - Should Newman and Harsha as Admin be allowed to do projects
+
+## Notes:
+- Max 1 entry per person for the builder pie (no extra limitations)
+- Working Product in live demo
+- 
