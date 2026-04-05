@@ -3,11 +3,12 @@ title: "Cardano Community Feedback Tooling"
 status: "Draft"
 author: "James Dunseith"
 created: "2026-04-02"
-consent_opens: null
-consent_closes: null
+consent_opens: 2026-04-02
+consent_closes: 2026-04-02
 decision: null
 decision_date: null
 ---
+[Consented to during Open Spaces 2026-04-02](../season6-hosting-open-spaces/open-spaces/2026-04-02.md)
 
 # Cardano Community Feedback Tooling
 

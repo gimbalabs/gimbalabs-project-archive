@@ -1,3 +1,16 @@
+---
+title: "Piece of Pie Hackathon 2026"
+status: "Active"
+author: "Harsha"
+created: "2026-03-30"
+consent_opens: 2026-04-02
+consent_closes: 2026-04-02
+decision: null
+decision_date: null
+---
+[Consented to during Open Spaces 2026-04-02](../season6-hosting-open-spaces/open-spaces/2026-04-02.md)
+
+
 # Piece Of Pie Hackathon by Gimbalabs
 
 ## Gimbalabs Primary Driver
