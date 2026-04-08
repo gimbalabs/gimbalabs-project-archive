@@ -56,12 +56,21 @@ A 12-week participation-driven hackathon where contributors earn equal shares of
 
 ---
 
-### 3. Reward Structure (16,000 ADA)
+### 3. Reward Structure
+The hackathon uses a reward structure divided into separate pools, referred to as "Pies".  
 
-- 10,000 ADA → Builders (equal split)
-- 2,000 ADA → Real user projects (equal split)
-- 1,000 ADA → Feedback pool (credit-weighted)
+- 10,000 ADA → Builders Pie (equal split)
+- 2,000 ADA → Real User Pie (equal split)
+- 1,000 ADA → Feedback Pie (credit-weighted)
 - 3,000 ADA → Admins (fixed)
+
+A total of 10,000 ADA is allocated to the Builders Pie, which is distributed as an equal split among qualifying participants.
+
+An additional 2,000 ADA is allocated to the Real User Pie, also distributed equally among participants who meet the criteria.
+
+The Feedback Pie consists of 1,000 ADA and is distributed based on credit-weighted contributions.
+
+Finally, 3,000 ADA is allocated as a fixed amount for administrative support.
 
 ---
 
